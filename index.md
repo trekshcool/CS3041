@@ -1,25 +1,11 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/trekshcool/trekshcool.github.io-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
+### I am Treksh Marwaha, a WPI CS/RBE double major, graguating in 2020. I am from Central india and have a deep passion for robotics. This Website Portfolio is for CS3041.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- [Design for Others](https://medium.com/@alexandrawheeler_11414/library-to-mobile-a-tale-for-ui-ux-designers-284cb952d5a)
+- [Design for Understanding](https://medium.com/@trekshcool/data-visualization-wpi-38d52ae8a395)
+- [Design for Tension](https://medium.com/@trekshcool/design-for-tension-208fd613725a)
+- [Design for Wellbeing](https://medium.com/@trekshcool/design-for-wellbeing-954b2c49baf8)
+- [Design for Another World](https://medium.com/@trekshcool/final-project-6d385b050763)
+- [Design Manifesto](https://medium.com/@trekshcool/design-manifesto-839b294e98ba)
