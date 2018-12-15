@@ -1,6 +1,6 @@
 
 
-## I am Treksh Marwaha, a WPI CS/RBE double major, graguating in 2020. I am from Central india and have a deep passion for robotics. This Website Portfolio is for CS3041.
+## I am Treksh Marwaha, a WPI CS/RBE double major, graguating in 2020. I am from Central India and have a deep passion for robotics. This Website Portfolio is for CS3041.
 
 
 - [Design for Others](https://medium.com/@alexandrawheeler_11414/library-to-mobile-a-tale-for-ui-ux-designers-284cb952d5a)
